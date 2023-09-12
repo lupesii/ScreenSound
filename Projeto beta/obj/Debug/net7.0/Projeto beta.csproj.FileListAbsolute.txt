@@ -1,0 +1,43 @@
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.exe
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.deps.json
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.runtimeconfig.json
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.dll
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.pdb
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.csproj.AssemblyReference.cache
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfoInputs.cache
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfo.cs
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.csproj.CoreCompileInputs.cache
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.dll
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\refint\Projeto beta.dll
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.pdb
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.genruntimeconfig.cache
+D:\Users\rafae\Desktop\Lucas\Projeto beta\Projeto beta\obj\Debug\net7.0\ref\Projeto beta.dll
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.exe
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.deps.json
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.runtimeconfig.json
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.dll
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\bin\Debug\net7.0\Projeto beta.pdb
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfoInputs.cache
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfo.cs
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.csproj.CoreCompileInputs.cache
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.dll
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\refint\Projeto beta.dll
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.pdb
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\Projeto beta.genruntimeconfig.cache
+D:\Users\lucas\Desktop\Lucas2\Projeto beta\Projeto beta\obj\Debug\net7.0\ref\Projeto beta.dll
+D:\cursos-projetos\BandasC#\Projeto beta\bin\Debug\net7.0\Projeto beta.exe
+D:\cursos-projetos\BandasC#\Projeto beta\bin\Debug\net7.0\Projeto beta.deps.json
+D:\cursos-projetos\BandasC#\Projeto beta\bin\Debug\net7.0\Projeto beta.runtimeconfig.json
+D:\cursos-projetos\BandasC#\Projeto beta\bin\Debug\net7.0\Projeto beta.dll
+D:\cursos-projetos\BandasC#\Projeto beta\bin\Debug\net7.0\Projeto beta.pdb
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfoInputs.cache
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.AssemblyInfo.cs
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.csproj.CoreCompileInputs.cache
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.dll
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\refint\Projeto beta.dll
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.pdb
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\Projeto beta.genruntimeconfig.cache
+D:\cursos-projetos\BandasC#\Projeto beta\obj\Debug\net7.0\ref\Projeto beta.dll
